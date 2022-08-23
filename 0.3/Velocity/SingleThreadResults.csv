@@ -1,3 +1,3 @@
-Score,Host Name,Plan Name,CPU,Server Software Title,Price per GB,Link to Submission
-314,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,$2 USD,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/8
-278,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,NA,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/2
+Score,Host Name,Plan Name,CPU,Server Software Title,Price per GB,Non-Default,Link to Submission
+314,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,$2 USD,False,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/8
+278,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,NA,False,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/2
