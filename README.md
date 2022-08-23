@@ -1,6 +1,6 @@
 # Minecraft-Benchmark-Results
 
-This is where results for the [main repository]](https://github.com/amnoah/Minecraft-Server-Benchmark) are tracked neatly and nicely.
+This is where results for the [main repository](https://github.com/amnoah/Minecraft-Server-Benchmark) are tracked neatly and nicely.
 
 # How to Submit a Score
 
