@@ -2,6 +2,10 @@
 
 This is where results for the [main repository](https://github.com/amnoah/Minecraft-Server-Benchmark) are tracked neatly and nicely.
 
+# BE AWARE
+
+Results may be submitted/gained through the hosting provider rather than a customer. Be cautious with these results as they have potential to be altered in a misleading manner. All results in the spread sheets are marked whether they're customer provided or host provided.
+
 # How to Submit a Score
 
 - [Read the pinned discussion describing the formatting of any posts you submit](https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/1)
