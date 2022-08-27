@@ -1,2 +1,2 @@
-Score,Host Name,Plan Name,CPU,Server Software Title,Price per GB,Non-Default,Link to Submission
-326,EnviroMC,8GB Premium,AMD Ryzen 5950X,Bungeecord 1.19,$2.50 USD,False,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/11
+Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per GB,Aikars Flags,Host Run/Provided,Link to Submission
+326,EnviroMC,8GB Premium,AMD Ryzen 5950X,Bungeecord 1.19,0.3,$2.50 USD,?,True,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/11
