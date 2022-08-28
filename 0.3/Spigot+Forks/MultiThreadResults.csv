@@ -8,3 +8,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1019,ColourNodes,Premium Grass,Intel i9-9900K,PaperMC 1.16.5,0.3,$3 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/10
 1001,BloomHost,8GB Performance VPS,AMD Ryzen 3950X,Custom Paper 1.8.8,0.3,$2.75 USD,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/6
 953,PixelPond,4GB Puddle,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$3.78 USD,?,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/5
+770,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/25

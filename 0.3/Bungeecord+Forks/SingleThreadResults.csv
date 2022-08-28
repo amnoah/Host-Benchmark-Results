@@ -2,3 +2,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 392,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/15
 326,EnviroMC,8GB Premium,AMD Ryzen 5950X,Bungeecord 1.19,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/11
 308,Wepwawet,Creeper,AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/20
+279,BASELINE,Oracle VPS,Oracle ARM CPU,Waterfall 1.19,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/28
