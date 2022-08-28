@@ -2,3 +2,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1527,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/16
 1464,Wepwawet,Creeper,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/22
 894,BASELINE,Oracle VPS,Oracle ARM CPU,Sabre Dev aca3bb2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/26
+533,FalixNodes,Free 4GB,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$0,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/32

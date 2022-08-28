@@ -3,3 +3,4 @@ Score,Host Name,Plan Name,CPU,Benchmark Version,Price per GB,Aikars Flags,Host R
 378,Wepwawet,Creeper,AMD Ryzen 5950X,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/21
 376,Vultam Host,4GB Performance,AMD Ryzen 5950X,0.3.1,$3.50 USD,False,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/14
 376,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/17
+208,FalixNodes,Free 4GB,AMD Ryzen 5950X,0.3.1,$0,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/30

@@ -9,3 +9,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 286,Exaroton,4GB,AMD EPYC 7F72,PaperMC 1.19.2,0.3,$0.01 USD per hour,?,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/4
 264,ColourNodes,Premium Grass,Intel i9-9900K,PaperMC 1.16.5,0.3,$3 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/10
 231,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/25
+128,FalixNodes,Free 4GB,AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$0,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/29
