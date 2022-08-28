@@ -1,4 +1,5 @@
-Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per GB,Aikars Flags,Host Run/Provided,Link to Submission
-1138,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,0.3,$2 USD,False,True,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/8
-1095,EnviroMC,8GB Premium,AMD Ryzen 5950X,Velocity 3.1.1,0.3,$2.50 USD,?,True,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/13
-867,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,0.3,NA,False,False,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/2
+Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per GB,Aikars Flags,Host Run/Provided,Dedicated/Shared Resources,Link to Submission
+1343,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,Velocity 3.1.2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/19
+1138,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,0.3,$2 USD,False,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/8
+1095,EnviroMC,8GB Premium,AMD Ryzen 5950X,Velocity 3.1.1,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/13
+867,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,0.3,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/2
