@@ -3,4 +3,5 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 326,EnviroMC,8GB Premium,AMD Ryzen 5950X,Bungeecord 1.19,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/11
 313,FalixNodes,Free 4GB,AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$0,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/31
 310,Wepwawet,Creeper,AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/20
+298,Folium Hosting,Skeleton,AMD Ryzen 3600,Waterfall 1.19,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/35
 279,BASELINE,Oracle VPS,Oracle ARM CPU,Waterfall 1.19,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/28

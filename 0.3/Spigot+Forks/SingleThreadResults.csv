@@ -6,6 +6,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 332,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/18
 303,EnviroMC,8GB Premium,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/12
 294,WinterNode,6GB Redstone Ore,Intel i9-9900K,PaperMC 1.19.2,0.3,$2 USD,False,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/3
+290,Folium Hosting,Skeleton,AMD Ryzen 3600,PaperMC 1.19.2,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/37
 286,Exaroton,4GB,AMD EPYC 7F72,PaperMC 1.19.2,0.3,$0.01 USD per hour,?,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/4
 264,ColourNodes,Premium Grass,Intel i9-9900K,PaperMC 1.16.5,0.3,$3 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/10
 231,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/25
