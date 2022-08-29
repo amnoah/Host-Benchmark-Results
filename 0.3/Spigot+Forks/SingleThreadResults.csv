@@ -1,9 +1,9 @@
 Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per GB,Aikars Flags,Host Run/Provided,Dedicated/Shared Resources,Link to Submission
 390,PixelPond,4GB Puddle,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$3.78 USD,?,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/5
+367,Wepwawet,Creeper,AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/23
 356,BloomHost,8GB Performance VPS,AMD Ryzen 3950X,Custom Paper 1.8.8,0.3,$2.75 USD,False,False,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/6
 337,VitezaCloud,8GB Premium,Intel i9-9900K,PaperMC 1.19.2,0.3,$1 USD,?,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/9
 332,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/18
-330,Wepwawet,Creeper,AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/23
 303,EnviroMC,8GB Premium,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/12
 294,WinterNode,6GB Redstone Ore,Intel i9-9900K,PaperMC 1.19.2,0.3,$2 USD,False,True,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/3
 286,Exaroton,4GB,AMD EPYC 7F72,PaperMC 1.19.2,0.3,$0.01 USD per hour,?,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/4
