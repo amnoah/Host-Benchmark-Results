@@ -1,8 +1,9 @@
 Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per GB,Aikars Flags,Host Run/Provided,Dedicated/Shared Resources,Link to Submission
 389,Wepwawet,Creeper (Empty Node),AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/16
 379,Wepwawet,Creeper,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/22
-343,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Sabre Dev aca3bb2,0.3.1,$2.50,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/47
+343,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Sabre Dev aca3bb2,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/47
 321,FalixNodes,Free 4GB,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/32
 308,Folium Hosting,Skeleton,AMD Ryzen 3600,Sabre Dev aca3bb2,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/36
 302,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,Sabre Dev aca3bb2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/43
+283,CentroNodes,Pre-made 2,Intel i9-9900k,Sabre Dev aca3bb2,0.3.1,$0.89 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/52
 266,BASELINE,Oracle VPS,Oracle ARM CPU,Sabre Dev aca3bb2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/26
