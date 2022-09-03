@@ -3,6 +3,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1231,Wepwawet,Creeper,AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$2.45 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/20
 1146,Folium Hosting,Skeleton,AMD Ryzen 3600,Waterfall 1.19,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/35
 1076,EnviroMC,8GB Premium,AMD Ryzen 5950X,Bungeecord 1.19,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/11
+965,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Waterfall 1.19,0.3.1,$2.50,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/48
 934,BASELINE,Oracle VPS,Oracle ARM CPU,Waterfall 1.19,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/28
 647,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,Waterfall 1.19,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/42
 539,FalixNodes,Free 4GB,AMD Ryzen 5950X,Waterfall 1.19,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/31
