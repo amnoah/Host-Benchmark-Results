@@ -12,7 +12,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 953,PixelPond,4GB Puddle,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$3.78 USD,?,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/5
 836,CortexNodes,Donor 8GB 5vCore,Intel Xeon E3-1275v3,PaperMC 1.19.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/55
 770,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/25
-670,ActiniumCloud,4GB North America,AMD Ryzen 3600,PaperMC 1.19.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/58
+670,ActiniumCloud,4GB Europe,AMD Ryzen 3600,PaperMC 1.19.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/58
 602,ActiniumCloud,4GB North America,AMD EPYC 7443P,PaperMC 1.19.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/62
 597,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,PaperMC 1.19.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/40
 535,CentroNodes,Pre-made 2,Intel i9-9900k,PaperMC 1.19.2,0.3.1,$0.89 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/53
