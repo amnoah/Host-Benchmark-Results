@@ -11,6 +11,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 286,Exaroton,4GB,AMD EPYC 7F72,PaperMC 1.19.2,0.3,$0.01 USD per hour,?,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/4
 285,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,PaperMC 1.19.2,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/45
 264,ColourNodes,Premium Grass,Intel i9-9900K,PaperMC 1.16.5,0.3,$3 USD,?,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/10
+234,client.CortexNodes.com,Donor 8GB 5vCore,Intel Xeon E3-1275v3,PaperMC 1.19.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/55
 231,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/25
 178,CentroNodes,Pre-made 2,Intel i9-9900k,PaperMC 1.19.2,0.3.1,$0.89 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/53
 166,Server.pro,Free 1GB,AMD EPYC 7351P, PaperMC 1.19.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/39
