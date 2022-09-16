@@ -5,6 +5,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1138,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,0.3,$2 USD,False,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/8
 1105,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Velocity 3.1.2,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/46
 1095,EnviroMC,8GB Premium,AMD Ryzen 5950X,Velocity 3.1.1,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/13
+1061,SunriseNode,MC 10GB,Intel Xeon E3-1270v6,Velocity 3.1.2,0.3.1,$1.25 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/68
 933,client.CortexNodes.com,Donor 8GB 5vCore,Intel Xeon E3-1275v3,Velocity 3.1.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/57
 867,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,0.3,NA,False,False,Shared,https://github.com/amnoah/Minecraft-Benchmark-Results/discussions/2
 769,ActiniumCloud,4GB Europe,AMD Ryzen 3600,Velocity 3.1.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/60

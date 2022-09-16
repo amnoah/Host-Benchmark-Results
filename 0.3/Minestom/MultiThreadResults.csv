@@ -3,6 +3,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1464,Wepwawet,Creeper,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$2.45 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/22
 1226,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Sabre Dev aca3bb2,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/47
 1202,Folium Hosting,Skeleton,AMD Ryzen 3600,Sabre Dev aca3bb2,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/36
+1043,SunriseNode,MC 10GB,Intel Xeon E3-1270v6,Sabre Dev aca3bb2 1.19,0.3.1,$1.25 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/66
 894,BASELINE,Oracle VPS,Oracle ARM CPU,Sabre Dev aca3bb2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/26
 664,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,Sabre Dev aca3bb2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/43
 533,FalixNodes,Free 4GB,AMD Ryzen 5950X,Sabre Dev aca3bb2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/32
