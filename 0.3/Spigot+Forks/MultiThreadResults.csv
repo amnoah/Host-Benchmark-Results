@@ -11,11 +11,16 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 1003,SunriseNode,MC 10GB,Intel Xeon E3-1270v6,PaperMC 1.19.2,0.3.1,$1.25 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/67
 1001,BloomHost,8GB Performance VPS,AMD Ryzen 3950X,Custom Paper 1.8.8,0.3,$2.75 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/6
 953,PixelPond,4GB Puddle,AMD Ryzen 5950X,PaperMC 1.19.2,0.3,$3.78 USD,?,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/5
+912,BoxToPlay,Titan Unlimited (7GB?),Unknown (Intel?),iSpigot 1.8.8,0.3.1,$0.64 USD,True,False,?,https://github.com/amnoah/Host-Benchmark-Results/discussions/74
 836,CortexNodes,Donor 8GB 5vCore,Intel Xeon E3-1275v3,PaperMC 1.19.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/55
 770,BASELINE,Oracle VPS,Oracle ARM CPU,PaperMC 1.19.2,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/25
 670,ActiniumCloud,4GB Europe,AMD Ryzen 3600,PaperMC 1.19.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/58
+636,Novonode,Budget 2GB (France),Intel i7-6700K,iSpigot 1.8.8,0.3.1,$1.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/72
+605,Hosterfy,Standard Slime 4GB (France),Intel Xeon E5-2690v2,iSpigot 1.8.8,0.3.1,$0.80 USD,True,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/73
 602,ActiniumCloud,4GB North America,AMD EPYC 7443P,PaperMC 1.19.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/62
 597,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,PaperMC 1.19.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/40
 535,CentroNodes,Pre-made 2,Intel i9-9900k,PaperMC 1.19.2,0.3.1,$0.89 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/53
 522,Server.pro,Free 1GB,AMD EPYC 7351P,PaperMC 1.19.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/39
+477,OuiHeberg,Xeon Lapis 8GB,Intel Xeon E5-2680,iSpigot 1.8.8,0.3.1,$0.67 USD,True,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/76
 329,FalixNodes,Free 4GB,AMD Ryzen 5950X,PaperMC 1.19.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/29
+231,CortexNodes,4GB Germany (2vCore),Intel i7-7700,PaperMC 1.19.2,0.3.1,?,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/71

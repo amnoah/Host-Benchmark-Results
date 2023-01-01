@@ -9,3 +9,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 279,BASELINE,Oracle VPS,Oracle ARM CPU,Waterfall 1.19,0.3.1,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/28
 275,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Waterfall 1.19,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/48
 262,SunriseNode,MC 10GB,Intel Xeon E3-1270v6,Waterfall 1.19,0.3.1,$1.25 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/64
+219,WinHeberg,Bungeecord Netherite,Intel Xeon E5-2697v2,Bungeecord 1.19,0.3.1,$0.60,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/77

@@ -13,3 +13,4 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 630,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,Velocity 3.1.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/44
 535,CentroNodes,Pre-made 2,Intel i9-9900k,Velocity 3.1.2,0.3.1,$0.89 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/54
 516,FalixNodes,Free 4GB,AMD Ryzen 5950X,Velocity 3.1.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/33
+410,CortexNodes,4GB Germany (2vCore),Intel i7-7700,Velocity 3.1.2,0.3.1,?,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/71

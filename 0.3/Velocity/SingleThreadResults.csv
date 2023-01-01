@@ -4,6 +4,7 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 341,Folium Hosting,Skeleton,AMD Ryzen 3600,Velocity 3.1.2,0.3.1,$0.95 USD,True,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/38
 340,EnviroMC,8GB Premium,AMD Ryzen 5950X,Velocity 3.1.1,0.3,$2.50 USD,?,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/13
 338,ActiniumCloud,4GB Europe,AMD Ryzen 3600,Velocity 3.1.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/60
+325,CortexNodes,4GB Germany (2vCore),Intel i7-7700,Velocity 3.1.2,0.3.1,?,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/71
 324,ShockByte,3GB Cobblestone North America,Intel Xeon E-2236,Velocity 3.1.2,0.3.1,$2.50 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/46
 314,WinterNode,6GB Redstone Ore,Intel i9-9900K,Velocity 3.1.0,0.3,$2 USD,False,True,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/8
 312,SunriseNode,MC 10GB,Intel Xeon E3-1270v6,Velocity 3.1.2,0.3.1,$1.25 USD,False,True,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/68
@@ -11,5 +12,5 @@ Score,Host Name,Plan Name,CPU,Server Software Title,Benchmark Version,Price per 
 286,FalixNodes,Free 4GB,AMD Ryzen 5950X,Velocity 3.1.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/33
 283,MagmaNode,2.5GB (Free),AMD Ryzen 3700X,Velocity 3.1.2,0.3.1,$0 USD,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/44
 282,ActiniumCloud,4GB North America,AMD EPYC 7443P,Velocity 3.1.2,0.3.1,$0.50,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/63
-281,CortexNodes,Donor 8GB 5vCore,Intel Xeon E3-1275v3,Velocity 3.1.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/57
+281,CortexNodes,Donor 8GB,Intel Xeon E3-1275v3,Velocity 3.1.2,0.3.1,$0.40 USD,False,False,Dedicated,https://github.com/amnoah/Host-Benchmark-Results/discussions/57
 278,BASELINE,Oracle VPS,Oracle ARM CPU,Velocity 3.1.1,0.3,NA,False,False,Shared,https://github.com/amnoah/Host-Benchmark-Results/discussions/2
